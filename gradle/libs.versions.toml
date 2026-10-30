@@ -4,7 +4,7 @@ compose = "1.12.2"
 kotlinx-coroutines = "1.11.0"
 kotlinx-serialization = "1.11.0"
 # deck.gl JS version; deck.gl-native ports the same release
-deckgl-js = "9.4.0"
+deckgl-js = "9.4.1"
 lumagl-js = "9.4.2"
 loadersgl-js = "4.5.4"
 # The desktop target binds deck.gl-native through the FFM API (java.lang.foreign), final in Java 22

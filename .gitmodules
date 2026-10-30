@@ -1,3 +1,3 @@
 [submodule "native/deck.gl-native"]
 	path = native/deck.gl-native
-	url = https://github.com/birkskyum/deck.gl-native
+	url = https://github.com/macrofocus/deck.gl-native
