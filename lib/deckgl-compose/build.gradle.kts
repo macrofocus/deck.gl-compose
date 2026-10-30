@@ -17,6 +17,8 @@ kotlin {
 
   js {
     browser()
+    // Compose UI tests on js need a webpack bundle to load the Skiko runtime (CMP-4906)
+    binaries.executable()
   }
 
   sourceSets {
